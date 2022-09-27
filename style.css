@@ -1,0 +1,45 @@
+.container {
+    padding: 2%;
+    background-image: url(background.jpg);
+    background-color: aqua;
+    font-size: 42;
+    margin: 0;
+    display: inline-block;
+    /* border: 10px solid black; */
+    
+
+}
+#photo {
+    height: 440px;
+    width: 500px;
+    border-radius: 50%;
+    float: right;
+    /* overflow: hidden; */
+
+}
+.navigation {
+    font-size: 32;
+    text-decoration: none;
+    color: aliceblue;
+    background-color: rgb(221, 122, 10);
+    text-align: center;
+}
+body {
+    background-color: rgb(97, 176, 176);
+}
+
+
+h1{
+    display: inline-block;
+}
+h2{
+    display: inline-block;
+}
+.main {
+    text-align: center;
+    margin: 20px;
+}
+#images,#childhood,#singer,#Lata{
+    height: 440px;
+    width: 500px;
+}
